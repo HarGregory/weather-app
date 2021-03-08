@@ -1,0 +1,54 @@
+.example-form-field {
+    width: 200px;
+  }
+
+  .buttons{
+    margin-left: 300px;
+  }
+
+  .mat-form-field-wrapper {
+    height: 40px importan !important;
+  }
+
+  .divbody{
+    padding-top: 80px;
+    text-align: center;
+  }
+
+  button{
+    margin: 10px;
+  }
+
+.dashboard{
+  background-image: url("../assets/blue-sky-with-clouds.jpg"); 
+  height: 100%;
+  width: 100%;
+}
+
+.textHeader{
+  font-size: 35px;
+}
+
+
+.cardList{
+  background-color:white;
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  max-height: 500px;
+  max-width: 600px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+ 
+.info{
+  float: left;
+  padding-left: 40px;
+}
+
+img{
+  height: 70px;
+  width: 70px;
+}
